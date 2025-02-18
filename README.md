@@ -1,2 +1,3 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaa# 1
-asdhweqw
+Бұл менің Github та бірінші проектім 
+тобеде пайтон файл қойдым hello world
+деп жазуды білмиді тобеде көрсетім 
